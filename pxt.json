@@ -1,5 +1,5 @@
 {
-    "name": "Ex2 light sensor",
+    "name": "Ex2 light sensor lower level",
     "description": "",
     "dependencies": {
         "core": "*",
